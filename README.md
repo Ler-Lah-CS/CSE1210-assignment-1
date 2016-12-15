@@ -29,7 +29,7 @@ Follow these instructions to set up a GitHub hosted web page of your assignment.
 ## Customizing the Webpage
 Open up two tabs in your browser, navigate to your webpage in one of the tabs and to your assignment repository in the other tab. Open up the ```index.html``` file for editing (make sure you use __soft wrap__ in the GitHub code editor to have linebreaks) in your browser and customize your web page in the following ways:
 
-1. Change the line __This project is maintained by QEHSCS__ by replacing QEHSCS with your name.
+1. Change the line __This project is maintained by Brian__ by replacing QEHSCS with your name.
 
 Before continuing find and look closely at the HTML markup in the ```index.html``` file where the text of web page is included.. In particular notice the opening and closing  tags that are used to format the text, in particular the ```<h3>``` and ```</h3>```, ```<p>``` and ```</p>``` and ```<a href="...">``` and ```</a>``` tags.
 
