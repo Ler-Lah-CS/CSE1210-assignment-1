@@ -1,4 +1,14 @@
-# CSE1210-assignment-1
+# Canada 
+## Capital, 
+Ottawa
+## Official Languages, 
+English & French 
+## Population Size, 
+36,286,378
+## Land Area in Square Kilometers,
+9.985 million km²
+## Currency
+Canadian dollar
 
 My URL:https://ler-lah-cs.github.io/CSE1210-assignment-1/
 
@@ -42,3 +52,6 @@ You will now replace the default web page text with your own information.
 6. Bonus Challenge: Add a picture of the country's flag to your web page.  
 
 Before turning in your assignment make sure that the web page is formatted properly and nicely. Spelling mistakes, typos and ugly formatting will all result in deductions.
+
+## See Wikipedia for more information
+https://en.wikipedia.org/wiki/Canada
