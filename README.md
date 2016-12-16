@@ -1,21 +1,21 @@
 # Canada 
+
 ### Capital, 
-
 Ottawa
+
 ### Official Languages, 
-
 English & French 
+
 ### Population Size, 
-
 36,286,378
+
 ### Land Area in Square Kilometers,
-
 9.985 million km²
-### Currency
 
+### Currency
 Canadian dollar
 
-My URL:https://ler-lah-cs.github.io/CSE1210-assignment-1/
+My URL:https://ler-lah-cs.github.io/CSE1210-assignment-1/html
 
 In this assignment you will be creating and customizing a web page. 
 
