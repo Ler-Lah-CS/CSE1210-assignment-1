@@ -1,6 +1,7 @@
-![Alt text](https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1000px-Flag_of_Canada.svg.png)
+
 
 # Canada 
+![Alt text](https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1000px-Flag_of_Canada.svg.png)
 
 ### Capital, 
 Ottawa
